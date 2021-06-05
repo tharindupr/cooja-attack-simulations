@@ -1,0 +1,10 @@
+Number of Nodes 20
+Malcious Nodes 5 
+Attack : Flooding attack
+Topology : Random
+
+Node 2 : Malcious IP : fe80::0212:7402:0002:0202
+Node 4 : Malcious IP : fe80::0212:7404:0004:0404
+Node 5 : Malcious IP : fe80::0212:7405:0005:0405
+Node 6 : Malcious IP : fe80::0212:7406:0006:0406
+Node 3 : Malcious IP : fe80::0212:7403:0003:0403

@@ -1,0 +1,12 @@
+Number of Nodes 11
+Malcious Nodes 1 
+Attack : Flooding attack
+Topology : Random
+Malcious IP : fe80::212:740c:c:c0c	
+
+inet6 fe80::1  prefixlen 64  scopeid 0x20<link>
+inet6 aaaa::1  prefixlen 64  scopeid 0x0<global>
+ff02::1a   Broadcast to every RPL Nodes
+::1 LoopBack
+
+
